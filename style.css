@@ -1,0 +1,16 @@
+h1 {
+  margin: 1;
+  padding: 1;
+  height: 5vh;
+  text-align: center;
+  border-color:black;
+  border:solid;
+}
+div {
+  border-color:black;
+  border:solid;
+  width:220px;
+  padding: 5px;
+  margin: 15px;
+}
+
