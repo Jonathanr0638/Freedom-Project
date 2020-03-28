@@ -5,6 +5,8 @@ h1 {
   text-align: center;
   border-color:black;
   border:solid;
+  background-color: rgb(62, 66, 73);
+
 }
 div {
   border-color:black;
@@ -12,5 +14,15 @@ div {
   width:220px;
   padding: 5px;
   margin: 15px;
+  background-color: rgb(62, 66, 73);
 }
+ body {
+   background: rgb(42, 54, 95);
+ }
 
+.content {
+  background: rgb(62, 66, 73);
+  padding: 1.5em;
+  margin-right: 1.5em;
+  border-radius: 1.8em;
+}
